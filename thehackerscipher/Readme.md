@@ -30,6 +30,6 @@ This message wasn't just scrambled—it was **transformed using multiple cryptog
    ```
 2. Analyze the encoded message.  
 3. Write a script or use manual techniques to **recover the original message**.  
-4. Drop your answer in a GitHub Issue or Tweet it with `#HackerCipherChallenge`.  
+4. Drop your answer in a GitHub Issue or Tweet it with `#cybersquest`.  
 
 Are you ready? **Let’s see who cracks it first!** 🏆  
