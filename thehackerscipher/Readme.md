@@ -25,7 +25,7 @@ This message wasn't just scrambled—it was **transformed using multiple cryptog
 ## 🚀 **How to Participate**
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/defHawk-tech/Weekly_challenge/thehackerscipher.git
+   git clone https://github.com/defHawk-tech/Weekly_challenge.git
    cd hackercipherchallenge
    ```
 2. Analyze the encoded message.  
